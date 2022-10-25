@@ -49,3 +49,21 @@ The Student Analyzer 3000 (SA3K) should be used after completing a course. This 
 -who can I go to for improvement?
 -should I study more?
 -etc...
+
+Input of the SA3K:
+When using SA3K, you should expect to have all of your grades in front of you for that certain class. You should also be familiar with the weights for each section so that we can easily calculate your final grade and give you a thorough explanation and breakdown of where you can improve and what you did well!
+
+Output of the SA3K:
+We don't want to be like others, only telling you your final grade and leaving you in the dust. We care about helping you improve in class and we will break down everything you need to know. So, after our program walks you through entering all of your class information (grades, sections, weights, etc), we display a summary to you.
+This summary is somewhat long, but we want to supply you with enough information so you know how to improve for the next class!
+First, we tell you your final grade and the letter grade equivalent to that. Then, we dive deeper, telling you your worst section and the average of that. We discuss ideas to help you improve in that category for next semester, whether it be going to study hours, forming a study group, or simply spending more time learning the content.
+Hard work does not go unnoticed. We also tell you the section you did the best in, and how you can continue to excel in that category so you can pass with flying colors next semester. 
+
+Why was the development like this important to the SA3K group:
+We decided to design our program like this for a number of reasons. The primary reason is: calculating your grade only tells you a small piece of what you actually need to know. Many times when students are struggling with classes, they are told they need to get better grades, but no one tells them how and what things they should focus on.
+That's where development started for the SA3K. 
+Development wasn't the easiest for our group but we were able to produce a flawless analyzer.
+We started by discussing our reason for completing this project, and who it was for. We decided that we wanted to do deeper than just calculating a final grade. After discussing what we were going to do, we had to discuss how. We used pair programming for a majority of our code, bouncing ideas off one another and finding efficient ways to solve problems. Also, having multiple people really helped when it came time to suggesting improvements to the student.
+We had tons of information we could share with the student depending on what category they excelled in and struggled in. We hope the SA3K can help you with becoming a better student!
+
+Instructions:
