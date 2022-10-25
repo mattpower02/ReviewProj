@@ -67,3 +67,14 @@ We started by discussing our reason for completing this project, and who it was 
 We had tons of information we could share with the student depending on what category they excelled in and struggled in. We hope the SA3K can help you with becoming a better student!
 
 Instructions:
+We made it easy to use our SA3K! You should be sent the executable file (if you were not, see below).
+-Place the file on your desktop
+-IF you were not sent just the executable, drag the three files to your desktop
+-Open up 'Terminal' on your computer, by either searching for it or navigating to it
+-enter the following commands:
+-'cd desktop'
+-IF you were not sent just the executable, 'g++ main.cpp review.cpp -o SA3K'
+-'./SA3K'
+-From that point, you will be prompted with instructions by the program, such as entering how many assignments you completed, the grades for each assignment, the weight of each section, etc.
+-When you have finished inputting all of your grades, scroll through our summary. It will provide you information on how to improve as a student and what you should focus on!
+
