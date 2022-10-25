@@ -1,4 +1,4 @@
-# ReviewProj
+# Student Analyzer 3000
 
 Repo address:
 https://github.com/mattpower02/ReviewProj.git
